@@ -1,5 +1,4 @@
 # hello-word
-just another repository
 import tensorflow as tf
 hello = tf.constant('hello,tensorflow')
 sess = tf.Session()
